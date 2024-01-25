@@ -1,0 +1,28 @@
+.container text-center
+{
+    display: flex;
+    flex-wrap: column;
+    align-items: center;
+    justify-content: center;
+}
+.col
+{
+    border: 4px #d4ff00 solid;
+    width: 450px;
+    height: 450px;
+    margin-top: 40px;
+    margin-bottom: 20%;    
+    margin-left:39%;
+}
+img{
+    
+    height: 100%;
+    width: 100%;
+}
+.H2
+{
+    align-self: flex-end;
+    background-color:beige;
+    border: 1px yellow solid;
+    margin-top: 10px;
+}
